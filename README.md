@@ -5,9 +5,10 @@ Xylophone app that plays Xylophone sounds. Extra features added by me include:
 - Change of background color and text color on key press for interactivity
 - Refresh button for when sound is no more played
 
-[![xylophone app shot](https://res.cloudinary.com/marcomontalbano/image/upload/v1640317845/video_to_markdown/images/youtube--boH7Zqg4HOU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](./assets/xylophone-shot.mov "Xylophone app")
+## App screenshot (gif)
+<img width="300" alt="Xylophone app" src="./images/xylophone-shot.gif">
 
-# Icon resource
+## Icon resource
 - [Icon8](https://icons8.com/icons/set/refresh)
 
 ## Lessons learnt
